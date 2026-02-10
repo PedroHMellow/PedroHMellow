@@ -1,86 +1,59 @@
-# 🧑🏼‍💻PedroHMello
-**`Estudante de Engenharia de Software`**
+# 👨‍💻 Pedro H. Mello
 
-Programador iniciante em busca de desafios e crescimento na área de tecnologia. Estudante de Engenharia de Software na FIAP, já atuei em projetos com empresas parceiras, como o Hospital HC e a Rede Âncora, focando na experiência do usuário e no desenvolvimento de soluções eficientes. Possuo habilidades em HTML, CSS, Python, React e Tailwind, além de um forte interesse em Storytelling e design. Sempre busco aprimorar meus conhecimentos e criar soluções inovadoras que agreguem valor.
+**`Desenvolvedor Full Stack | Estudante de Engenharia de Software`**
 
----
-### 🤖 Linguagens e Tecnologias
-<img
- align="left"
- alt="HTML"
- title="HTML"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-
-<img
- align="left"
- alt="CSS"
- title="CSS"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-
-<img
- align="left"
- alt="React"
- title="React"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-<img
- align="left"
- alt="Tailwind"
- title="Tailwind"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
-
-<img
- align="left"
- alt="Python"
- title="Python"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
-
-<img
- align="left"
- alt="Maya"
- title="Maya"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" />
-
-
-<img
- aling="left"
- alt="Unreal Engine"
- title="Unreal Engine"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" />
-
+Olá! Sou desenvolvedor em formação pela FIAP, apaixonado por criar soluções que impactam positivamente a experiência do usuário. Com experiência em projetos reais para o Hospital HC e Rede Âncora, busco constantemente evoluir minhas habilidades técnicas e criativas. Meu foco está em desenvolvimento web moderno, storytelling e design centrado no usuário.
 
 ---
-### 📊 Estatísticas
-<p>
-  <img
-    align="left"
-    alt="Github Stats"
-    heigth="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=PedroHMellow&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
-  />
 
+### 🚀 Tecnologias que já trabalhei
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img align="center" alt="HTML" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" title="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Vite" title="Vite" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+  <img align="center" alt="Tailwind" title="Tailwind CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Java" title="Java" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="C#" title="C#" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="SQL" title="SQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Maya" title="Autodesk Maya" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" />
+  <img align="center" alt="Unreal Engine" title="Unreal Engine" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+</div>
+
+<br/>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div>
   <img
-    align="left"
-    alt="Github Stats"
-    heigth="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMellow&theme=radical&layout=compact&custon_title=Tecnologias&locale=pt-br&cus&langs_count=7"
+    align="center"
+    height="180em"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=PedroHMellow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
   />
-</p>
+  <img
+    align="center"
+    height="180em"
+    alt="Linguagens mais usadas"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMellow&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
+  />
+</div>
+
+---
+
+### 📫 Entre em contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedrohenriquemello)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](israelalvesmello2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](seu-portfolio)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PedroHMellow&color=blue&style=flat-square" alt="Profile views" />
+</div>
