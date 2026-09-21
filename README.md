@@ -2,7 +2,7 @@
 
 ![Banner](BunnerGithub.jpg)
 
-# 👨‍💻 Pedro H. Mello
+# Pedro H. Mello
 
 **`Desenvolvedor Full Stack | Estudante de Engenharia de Software`**
 
