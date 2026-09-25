@@ -32,9 +32,6 @@ Olá! Sou desenvolvedor em formação pela FIAP, apaixonado por criar soluções
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMellow&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br&hide_border=true" alt="Top Languages"/>
-</div>
 
 ---
 
