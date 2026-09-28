@@ -20,10 +20,15 @@
 <div align="center"> 
 
   ## SOBRE MIM
-  **`Desenvolvedor Full Stack | Estudante de Engenharia de Software  FIAP (2023–2027)`**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=E60012&center=true&vCenter=true&random=false&width=600&lines=Engenheiro+de+Software" alt="Typing SVG" />
+
+   **`🎓 Estudante de Engenharia de Software  FIAP (2023–2027)`**
 
 </div>
+
   <div style="text-align: justify;">
+
+ 
 
   Sou desenvolvedor em formação pela FIAP, apaixonado por tecnologia, criatividade e pela criação de experiências que geram impacto.<br>
     Já participei de projetos e desafios para empresas como <strong>Hospital HC e Rede Âncora</strong>, aplicando tecnologia na resolução de problemas reais.<br>
@@ -77,9 +82,6 @@ Aplicativo mobile de saúde e bem-estar desenvolvido com React Native + Expo, fo
 📦 **Stack:** React, Node.js, Express, Expo, TailwindCSS
 
 ---
-
-
-
 
 
 </div>
