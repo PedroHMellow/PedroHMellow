@@ -84,4 +84,9 @@ Aplicativo mobile de saúde e bem-estar desenvolvido com React Native + Expo, fo
 ---
 
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E60012&height=100&section=footer" width="100%"/>
+</div>
+
+
 </div>
