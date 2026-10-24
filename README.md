@@ -83,6 +83,10 @@ Aplicativo mobile de saúde e bem-estar desenvolvido com React Native + Expo, fo
 
 ---
 
+### 🗂️ [Nova Landing Page](https://github.com/PedroHMellow/Nova-Landing-Page.git)
+Landing page de pré-lançamento desenvolvida para o Startup One da FIAP, apresentando uma plataforma SaaS para oficinas mecânicas, com foco na recuperação de orçamentos sem resposta, no acompanhamento de clientes e na captação de interessados por meio de uma lista de espera. 
+📦 **Stack:** React, Vite, Tailwind CSS, Motion for React, Three.js, React Three Fiber, Drei
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E60012&height=100&section=footer" width="100%"/>
